@@ -4,7 +4,7 @@
 
 ## 文章
 
-[《初中时光》]([https://github.com/xiamuguizhi/blog_post_Article_collection/blob/main/%E3%80%8A%E5%90%91%E9%98%B3%E4%B8%BE%E8%A7%9E%EF%BC%8C%E6%95%AC%E6%AD%BB%E8%80%8C%E7%94%9F%E3%80%8B%20-%20%E6%88%B4%E7%9C%BC%E9%95%9C%E7%9A%84%E8%82%A5%E9%A9%B4.md](https://github.com/xiamuguizhi/blog_post_Article_collection/blob/main/%E3%80%8A%E5%88%9D%E4%B8%AD%E6%97%B6%E5%85%89%E3%80%8B%20-%20%E5%85%AB%E5%92%AB%E7%83%8F.md)) - 戴眼镜的肥驴 
+[《初中时光》](https://github.com/xiamuguizhi/blog_post_Article_collection/blob/main/%E3%80%8A%E5%88%9D%E4%B8%AD%E6%97%B6%E5%85%89%E3%80%8B%20-%20%E5%85%AB%E5%92%AB%E7%83%8F.md) - 八咫烏 
 
 [《向阳举觞，敬死而生》](https://github.com/xiamuguizhi/blog_post_Article_collection/blob/main/%E3%80%8A%E5%90%91%E9%98%B3%E4%B8%BE%E8%A7%9E%EF%BC%8C%E6%95%AC%E6%AD%BB%E8%80%8C%E7%94%9F%E3%80%8B%20-%20%E6%88%B4%E7%9C%BC%E9%95%9C%E7%9A%84%E8%82%A5%E9%A9%B4.md) - 戴眼镜的肥驴 
 
